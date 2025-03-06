@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi 👋, I'm Reddy
+- 🌱 I’m currently building MERN stack web applications.
 <!--
 **T-Reddappa/T-Reddappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
